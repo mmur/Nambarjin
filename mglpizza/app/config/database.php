@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'pizza',
 			'username'  => 'root',
-			'password'  => '1234',
+			'password'  => 'nambarnij',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
